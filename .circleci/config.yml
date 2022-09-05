@@ -182,7 +182,7 @@ jobs:
             - "7e:4f:12:fa:20:f4:2c:52:14:42:98:df:19:96:9a:f2"
       # attach workspace
       - attach_workspace:
-        at: ~/
+          at: ~/
       - run:
           name: Install dependencies
           command: |
