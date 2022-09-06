@@ -64,3 +64,7 @@ Before you submit your project, please check your work against the project rubri
 [License](LICENSE.md)
 
 Read me
+
+##URL
+http://udapeople-b52cb93.s3-website-us-east-1.amazonaws.com/#/employees (S3 url)
+http://d3pxren9z3cb32.cloudfront.net/#/employees (Cloud front)
