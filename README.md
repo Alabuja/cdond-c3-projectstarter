@@ -69,4 +69,4 @@ Read me
 http://udapeople-b52cb93.s3-website-us-east-1.amazonaws.com/#/employees (S3 url)
 http://d3pxren9z3cb32.cloudfront.net/#/employees (Cloud front)
 
-Project3 folder contains all screenshots and the presentation file in pdf.
+Project3 folder contains all screenshots and the presentation file in pdf
